@@ -7,3 +7,7 @@ Quite interesting!
 
 Can this be seen on remote platform?
 
+## ACTION TO BE TAKEN
+
+Ensure there is a bastion host with the network.
+
